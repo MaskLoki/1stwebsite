@@ -1,0 +1,23 @@
+<html lang="en"> 
+    <head>
+        <title> Project Sunflower</title>
+        <style>
+            img {
+                width: 100px;
+                border-radius: 50px ;
+                float: left;
+                margin-right: 10px;
+
+            }
+
+            .username  {
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <img src="file:///C:/Users/Calado%20PC/Pictures/275624563_1091718845008294_6934886420126608138_n.jpg" alt="A nice picture of a man lying down">
+        <p class="username">@Sunflower</p>
+        <p>I love sunflowers!</p>
+    </body>
+</html>
